@@ -1,6 +1,9 @@
 <div align="center">
 
-<h3> About Me </h3>
+<h3> About Me  
+<a href="mailto:syounseok94@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=syounseok94@gmail.com"/></a>
+</h3>
+
 
 ![](https://readme-stickers.vercel.app/api/kodeveloper?name=서윤석)
 
