@@ -17,7 +17,7 @@
 <h3> Statistics </h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SeoYounSeok&count_private=true&show_icons=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoYounSeok&layout=compact" alt="languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeoYounSeok&theme=aura_dark&count_private=true&show_icons=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoYounSeok&theme=aura_dark&layout=compact" alt="languages" height="165">
 </p>
 
 </div>
