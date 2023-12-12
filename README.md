@@ -4,7 +4,7 @@
 <a href="mailto:syounseok94@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=syounseok94@gmail.com"/></a>
 </h3>
 
-<p> 안녕하세요. 금융 IT 개발자로 재직중인 서윤석입니다.<p>
+<p> 안녕하세요. 소프트웨어 개발자로 재직중인 서윤석입니다.<p>
 <p> 깊이 있는 공부를 하는 것을 좋아합니다.💚 </p>
 <p> Study(온라인, 오프라인) 추천 및 개발 지식 공유를 하는 것이 중요하다고 생각합니다.</p>
 <p> 개발 지식과 능력을 하나씩 쌓아올리며 책임감 있는 개발자로 성장하려고 합니다.</p>
